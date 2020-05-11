@@ -1,6 +1,6 @@
 # CRISP-DM
 
-**An Example of Cross Industry Process for Data Mining**
+**An Example of Cross Industry Standard Process for Data Mining**
 
 <h2>1.Business Understanding</h2> 
 
